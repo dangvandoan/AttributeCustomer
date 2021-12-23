@@ -1,5 +1,5 @@
 require(['jquery', 'domReady!'], function($) {
-    //https://gist.github.com/chrisjhoughton/7890303
+
 
     var waitForEl = function(selector, callback) {
         if (jQuery(selector).length) {
